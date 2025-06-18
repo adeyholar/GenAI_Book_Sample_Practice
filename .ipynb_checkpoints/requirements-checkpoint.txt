@@ -1,0 +1,9 @@
+fastai
+torch
+torchvision
+jupyterlab
+numpy
+pandas
+matplotlib
+scikit-learn
+requestspython-dotenv
