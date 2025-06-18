@@ -1,0 +1,3 @@
+- Trained resnet34 on Oxford Pets dataset with GPU (RTX 4060).
+- Error rate improved from 0.107578 to 0.080514 in ~1.5 minutes.
+- GPU reduced training time significantly compared to CPU.
