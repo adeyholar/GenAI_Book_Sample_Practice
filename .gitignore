@@ -3,3 +3,5 @@
 *.conda
 .conda
 *.code-workspace
+/datasets
+/images
